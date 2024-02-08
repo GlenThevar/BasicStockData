@@ -4,7 +4,7 @@ This API allows users to retrieve information about a stock using its ticker sym
 
 ## Base URL
 
-The base URL for this API is `https://stocks2.onrender.com`
+The base URL for this API is `https://stocks2.onrender.com/apidocs/`
 
 ## Endpoints
 
