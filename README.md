@@ -1,4 +1,4 @@
-# Basic Stock Information API
+# List of Indian Stock data with their current share prices 
 
 This API allows users to retrieve information about a stock using its ticker symbol.
 
