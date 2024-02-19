@@ -3,3 +3,4 @@ flask_restful
 flasgger
 yfinance
 gunicorn
+flask-cors
