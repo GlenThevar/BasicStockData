@@ -4,6 +4,7 @@ from flasgger import Swagger
 import yfinance as yf
 
 app = Flask(__name__)
+CORS(app)
 api = Api(app)
 swagger = Swagger(app)
 
