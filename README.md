@@ -1,4 +1,4 @@
-# COMPLETE INFO OF INDIAN COMPANIES BASED ON THEIR SYMBOL 
+# NSE COMPANY DATA
 
 This API allows users to retrieve information about a stock using its ticker symbol.
 
